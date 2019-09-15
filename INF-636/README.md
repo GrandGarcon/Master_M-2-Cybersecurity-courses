@@ -4,5 +4,5 @@ for diffrent  real time use cases. also there will be courses on nakamoto concen
 
 To-Do :- 
 1. getting the outliers in the bitcoin transactions  :- 
-doing the relative financial and other bitcoin network health reporting of the corresponding events will it be helpful for  detecting the common network scale attacks.[slide links]()
+doing the relative financial and other bitcoin network health reporting of the corresponding events will it be helpful for  detecting the common network scale attacks.[slide links](http://www.enseignement.polytechnique.fr/informatique/INF636/lecture1.pdf)
 2. do again the assignment and stimulate the attack with the cli's. 
