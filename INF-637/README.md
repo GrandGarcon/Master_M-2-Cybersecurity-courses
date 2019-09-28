@@ -7,7 +7,7 @@ in this repo , i will be working on assignments on some of the research papers i
 
 # Obfuscation
   - [X]obfuscation overview paper :-  general theoretical explanation of the latest topics in the field. branch  their references and work on them. 
-  - 
+  - [ ] [Excellent blog on  getting the ](https://blog.quarkslab.com) - check this blog for the latest in the field of RE and pretty much everything related to 637.
   
   #Watermarking :- 
     - [ ] Implemnting the deep neural networks for getting the aprameters for the watermarking proces with least distortion.
