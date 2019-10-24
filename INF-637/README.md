@@ -5,6 +5,10 @@
 in this repo , i will be working on assignments on some of the research papers in the field with transitioning to the real time solving of bug bounty program and the 
 
 
+
+
+
+
 # Obfuscation
   - [X]obfuscation overview paper :-  general theoretical explanation of the latest topics in the field. branch  their references and work on them. 
   - [ ] [Excellent blog on  getting the ](https://blog.quarkslab.com) - check this blog for the latest in the field of RE and pretty much everything related to 637.
@@ -24,12 +28,18 @@ in this repo , i will be working on assignments on some of the research papers i
 i will mention the hints of the boxes that i have broken in the given categories so as to just act as guide not doremon. :)
 
 ### seam bowe courses on infosec series :- 
-these course series are the bottom up analysis of the practical reverse engg and re
 
 ### then to real time threat analytics on the scale 
-1. follow the course notes and the 
+1. follow the course notes to created automated reverse engineering  techniques.
 
 
 # then some real etheical work :- 
 1. HackerOne 
 2. 0x00sec discord community. 
+
+
+
+
+# Actual classes : 
+  ##  1&2 classes : getting the  jist of the reverse engineering and the file formats. : 
+      - the best  overall medium  blog post for the reverse engineering mastery: https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed . 
