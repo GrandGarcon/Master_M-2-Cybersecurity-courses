@@ -9,4 +9,5 @@ i might base my work on the data scraping the verified and intresting job offers
 # Table 
 ## 1. security topics 
 - [security orchestration and automation](SOAR.md). 
+  - [integrating n8n and diffrent cybersecurity standards to implement atomic red hat service](Playbookchef.md)
 
